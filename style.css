@@ -59,3 +59,14 @@ h2{
 p{
     color: var( --main-color);
 }
+
+li:nth-child(1){
+    list-style-image: url(books.png);
+    
+}
+li:nth-child(2){
+    list-style-image: url(teacher.png);
+}
+li:nth-child(3){
+    list-style-image: url(location.png);
+}
